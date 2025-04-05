@@ -2,7 +2,7 @@
 
 <!-- <h3> नमस्ते (Namaste)🙏🏻, I am Firoz Alam 👋</h3> -->
 ### नमस्ते (Namaste)🙏🏻, I am Firoz Alam 👋
-[![Linkedin Badge](https://img.shields.io/badge/-varadbhogayata-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/firoz-alam-8b9034b1](https://www.linkedin.com/in/firoz-alam-8b9034b1))]([https://www.linkedin.com/in/firoz-alam-8b9034b1/](https://www.linkedin.com/in/firoz-alam-8b9034b1))
+[![Linkedin Badge](https://img.shields.io/badge/-firozalam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/firoz-alam-8b9034b1](https://www.linkedin.com/in/firoz-alam-8b9034b1))]([https://www.linkedin.com/in/firoz-alam-8b9034b1/](https://www.linkedin.com/in/firoz-alam-8b9034b1))
 [![Gmail Badge](https://img.shields.io/badge/-firozalam.786123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:firozalam.786123@gmail.com)](mailto:firozalam.786123@gmail.com) 
 
 
