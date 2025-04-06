@@ -33,7 +33,7 @@
 
 ### :zap: Github Stats
 <p>
-    <a href="https://gitstats.me/varadbhogayata" target="_blank"> 
+    <a href="https://gitstats.me/firozalam" target="_blank"> 
         <img src="https://github-readme-stats.vercel.app/api?username=varadbhogayata&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
     </a>
 </p>
